@@ -1,1 +1,2 @@
 # web2
+Осика Іван Олексійович. телеграм - https://t.me/ffallenn КВ-93 . Розробка функціональності Web-додатка мовою Javascript. Загальне завдання: розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC. URL (посилання) на документ звіту на Google Drive: https://docs.google.com/document/d/1pBbaRWElo-VOxzV3bP1k1XU9aZ0JvxFV4l61-Doo52o/edit?usp=sharing
